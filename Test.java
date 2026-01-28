@@ -4,7 +4,7 @@ public class Test {
 		System.out.println("************************************");
 		System.out.println("Hello from Github");
 		System.out.println("Hello to Jenkins");
-		System.out.println("Wassup Buddy!! v9");
+		System.out.println("Wassup Buddy!! v10")
 		System.out.println("************************************");
 		
 	}
